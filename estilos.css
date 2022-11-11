@@ -1,0 +1,21 @@
+body{
+    background-color:#f8bbd0;
+    position: relative;
+}
+.encabezado{
+    margin: 0 auto;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+}
+.contenedorPrincipal{
+    margin: 0 auto;
+    width: 95%;
+    height: 5000px;
+    background-color: whitesmoke;
+    
+}
+.imagen1{
+    width: 90%;
+    padding-bottom: 6px;
+}
